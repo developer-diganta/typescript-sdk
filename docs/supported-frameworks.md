@@ -2,6 +2,7 @@
 id: supported-frameworks
 title: Supported Frameworks
 description: Supported Frameworks
+slug: /typescript/supported-frameworks
 tags:
   - developer-guide
   - typescript

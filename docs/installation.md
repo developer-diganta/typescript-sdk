@@ -2,6 +2,7 @@
 id: installation
 title: Integration
 description: Add the Keploy Typescript SDK to your application.
+slug: /typescript/installation
 tags:
   - developer-guide
   - typescript

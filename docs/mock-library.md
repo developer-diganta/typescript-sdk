@@ -2,6 +2,7 @@
 id: mock-library
 title: How to use mock library ?
 description: How to use mock library ?
+slug: /typescript/mock-library
 tags:
   - developer-guide
   - typescript

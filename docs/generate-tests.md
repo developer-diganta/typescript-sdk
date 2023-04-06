@@ -2,6 +2,7 @@
 id: generate-tests
 title: Generate E2E tests (with mocks)
 description: Generate E2E tests (with mocks)
+slug: /typescript/generate-tests
 tags:
   - developer-guide
   - typescript

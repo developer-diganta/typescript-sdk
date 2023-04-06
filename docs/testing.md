@@ -2,6 +2,7 @@
 id: testing
 title: Test your application
 description: Test your application
+slug: /typescript/testing
 tags:
   - developer-guide
   - typescript
