@@ -10,7 +10,7 @@ tags:
 
 ## Requirements
 
-- npm 7+
+- npm 8+
 - yarn
 
 ## Keploy Typescript-SDK
